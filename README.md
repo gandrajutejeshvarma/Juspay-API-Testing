@@ -1,6 +1,5 @@
 # Juspay-API-Testing
 Created a transaction and completed order creation and refund status for a customer
-link for API - [ https://api.postman.com/collections/40273946-d5b58773-4cea-495e-a1e6-69ad99d2a0ab?access_key=PMAT-01JEZDWB3437DRS0YDHS8E5R1T ]
 {
   "collection": {
     "info": {
